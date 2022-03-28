@@ -25,3 +25,4 @@
  - 프로세스 kill : kill -9 [process 번호]
  - 파일수정권한 변경 : chmod 777(숫자는 가변) [파일명]  
  - 도커 컨테이너 진입 : docker exec -it [container_name] bash
+- 폴더명or파일명 변경 : rm [변경할거] [어떻게변경할지]
